@@ -2,7 +2,9 @@
 
 This chrome extension will *prepend* "feature/" to the name of the branch when you push "Create branch" from JIRA
 
-[Install](https://github.com/fonsecas72/jira-feature-extension/releases/download/1/jira-feature.crx)
+[Install Chrome](https://github.com/fonsecas72/jira-feature-extension/releases/download/2/jira-feature.crx)
+
+[Install Firefox](https://github.com/fonsecas72/jira-feature-extension/releases/download/2/jira-feature.xpi)
 
 The "feature" notation is used usually in git-flow to identify features. 
 
