@@ -6,5 +6,10 @@
         "js": ["contentscript.js"],
         "matches": ["https://bitbucket.org/branch/create*"]
     }],
-    "web_accessible_resources": ["script.js"]
+    "web_accessible_resources": ["script.js"],
+    "applications": {
+      "gecko": {
+        "id": "hdtfonseca@gmail.com"
+      }
+    }
 }
